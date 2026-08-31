@@ -8,17 +8,17 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| C++ | 18 | 62.1% |
-| Rust | 11 | 37.9% |
+| C++ | 18 | 60.0% |
+| Rust | 12 | 40.0% |
 
 ## Progress tracker
 
-**26 / 150 solved (17.3%)**
+**27 / 150 solved (18.0%)**
 
-![Progress](https://progress-bar.xyz/26/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/27/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
 
 **Easy**  
-![Easy](https://progress-bar.xyz/54/?scale=100&suffix=%25%20(15/28)&width=300&progress_color=22c55e)
+![Easy](https://progress-bar.xyz/57/?scale=100&suffix=%25%20(16/28)&width=300&progress_color=22c55e)
 
 **Medium**  
 ![Medium](https://progress-bar.xyz/11/?scale=100&suffix=%25%20(11/101)&width=300&progress_color=eab308)
@@ -32,7 +32,7 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 | Two Pointers | 2 | 5 | 40.0% |
 | Sliding Window | 1 | 6 | 16.7% |
 | Stack | 1 | 7 | 14.3% |
-| Binary Search | 1 | 7 | 14.3% |
+| Binary Search | 2 | 7 | 28.6% |
 | Linked List | 4 | 11 | 36.4% |
 | Trees | 4 | 15 | 26.7% |
 | Tries | 1 | 3 | 33.3% |
@@ -103,9 +103,9 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>Binary Search</strong> (1/7)</summary>
+<summary><strong>Binary Search</strong> (2/7)</summary>
 
-- [ ] Binary Search
+- [x] [Binary Search](<Data Structures & Algorithms/binary-search>)
 - [ ] Search a 2D Matrix
 - [ ] Koko Eating Bananas
 - [ ] Find Minimum in Rotated Sorted Array
