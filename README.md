@@ -8,27 +8,27 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| C++ | 20 | 57.1% |
-| Rust | 15 | 42.9% |
+| C++ | 20 | 55.6% |
+| Rust | 16 | 44.4% |
 
 ## Progress tracker
 
-**31 / 150 solved (20.7%)**
+**32 / 150 solved (21.3%)**
 
-![Progress](https://progress-bar.xyz/31/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/32/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
 
 **Easy**  
 ![Easy](https://progress-bar.xyz/64/?scale=100&suffix=%25%20(18/28)&width=300&progress_color=22c55e)
 
 **Medium**  
-![Medium](https://progress-bar.xyz/13/?scale=100&suffix=%25%20(13/101)&width=300&progress_color=eab308)
+![Medium](https://progress-bar.xyz/14/?scale=100&suffix=%25%20(14/101)&width=300&progress_color=eab308)
 
 **Hard**  
 ![Hard](https://progress-bar.xyz/0/?scale=100&suffix=%25%20(0/21)&width=300&progress_color=ef4444)
 
 | Pattern | Solved | Total | Percentage |
 |---|---|---|---|
-| Arrays & Hashing | 6 | 9 | 66.7% |
+| Arrays & Hashing | 7 | 9 | 77.8% |
 | Two Pointers | 3 | 5 | 60.0% |
 | Sliding Window | 1 | 6 | 16.7% |
 | Stack | 1 | 7 | 14.3% |
@@ -52,7 +52,7 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 ## Solutions by pattern
 
 <details>
-<summary><strong>Arrays & Hashing</strong> (6/9)</summary>
+<summary><strong>Arrays & Hashing</strong> (7/9)</summary>
 
 - [x] [Contains Duplicate](<Data Structures & Algorithms/duplicate-integer>)
 - [x] [Valid Anagram](<Data Structures & Algorithms/is-anagram>)
@@ -61,7 +61,7 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 - [x] [Top K Frequent Elements](<Data Structures & Algorithms/top-k-elements-in-list>)
 - [x] [Encode and Decode Strings](<Data Structures & Algorithms/string-encode-and-decode>)
 - [ ] Product of Array Except Self
-- [ ] Valid Sudoku
+- [x] [Valid Sudoku](<Data Structures & Algorithms/valid-sudoku>)
 - [ ] Longest Consecutive Sequence
 
 </details>
