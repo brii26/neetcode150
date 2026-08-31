@@ -8,27 +8,27 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| C++ | 20 | 60.6% |
-| Rust | 13 | 39.4% |
+| C++ | 20 | 58.8% |
+| Rust | 14 | 41.2% |
 
 ## Progress tracker
 
-**30 / 150 solved (20.0%)**
+**31 / 150 solved (20.7%)**
 
-![Progress](https://progress-bar.xyz/30/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/31/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
 
 **Easy**  
 ![Easy](https://progress-bar.xyz/64/?scale=100&suffix=%25%20(18/28)&width=300&progress_color=22c55e)
 
 **Medium**  
-![Medium](https://progress-bar.xyz/12/?scale=100&suffix=%25%20(12/101)&width=300&progress_color=eab308)
+![Medium](https://progress-bar.xyz/13/?scale=100&suffix=%25%20(13/101)&width=300&progress_color=eab308)
 
 **Hard**  
 ![Hard](https://progress-bar.xyz/0/?scale=100&suffix=%25%20(0/21)&width=300&progress_color=ef4444)
 
 | Pattern | Solved | Total | Percentage |
 |---|---|---|---|
-| Arrays & Hashing | 5 | 9 | 55.6% |
+| Arrays & Hashing | 6 | 9 | 66.7% |
 | Two Pointers | 3 | 5 | 60.0% |
 | Sliding Window | 1 | 6 | 16.7% |
 | Stack | 1 | 7 | 14.3% |
@@ -52,14 +52,14 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 ## Solutions by pattern
 
 <details>
-<summary><strong>Arrays & Hashing</strong> (5/9)</summary>
+<summary><strong>Arrays & Hashing</strong> (6/9)</summary>
 
 - [x] [Contains Duplicate](<Data Structures & Algorithms/duplicate-integer>)
 - [x] [Valid Anagram](<Data Structures & Algorithms/is-anagram>)
 - [x] [Two Sum](<Data Structures & Algorithms/two-integer-sum>)
 - [x] [Group Anagrams](<Data Structures & Algorithms/anagram-groups>)
 - [x] [Top K Frequent Elements](<Data Structures & Algorithms/top-k-elements-in-list>)
-- [ ] Encode and Decode Strings
+- [x] [Encode and Decode Strings](<Data Structures & Algorithms/string-encode-and-decode>)
 - [ ] Product of Array Except Self
 - [ ] Valid Sudoku
 - [ ] Longest Consecutive Sequence
