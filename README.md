@@ -8,17 +8,17 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| C++ | 20 | 55.6% |
-| Rust | 16 | 44.4% |
+| C++ | 20 | 54.1% |
+| Rust | 17 | 45.9% |
 
 ## Progress tracker
 
-**32 / 150 solved (21.3%)**
+**33 / 150 solved (22.0%)**
 
-![Progress](https://progress-bar.xyz/32/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/33/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
 
 **Easy**  
-![Easy](https://progress-bar.xyz/64/?scale=100&suffix=%25%20(18/28)&width=300&progress_color=22c55e)
+![Easy](https://progress-bar.xyz/68/?scale=100&suffix=%25%20(19/28)&width=300&progress_color=22c55e)
 
 **Medium**  
 ![Medium](https://progress-bar.xyz/14/?scale=100&suffix=%25%20(14/101)&width=300&progress_color=eab308)
@@ -45,7 +45,7 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 | Greedy | 0 | 8 | 0.0% |
 | Intervals | 1 | 6 | 16.7% |
 | Math & Geometry | 1 | 8 | 12.5% |
-| Bit Manipulation | 1 | 7 | 14.3% |
+| Bit Manipulation | 2 | 7 | 28.6% |
 
 ---
 
@@ -297,9 +297,9 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>Bit Manipulation</strong> (1/7)</summary>
+<summary><strong>Bit Manipulation</strong> (2/7)</summary>
 
-- [ ] Single Number
+- [x] [Single Number](<Data Structures & Algorithms/single-number>)
 - [x] [Number of 1 Bits](<Data Structures & Algorithms/number-of-one-bits>)
 - [ ] Counting Bits
 - [ ] Reverse Bits
