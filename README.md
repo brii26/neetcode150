@@ -8,20 +8,20 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| C++ | 20 | 51.3% |
-| Rust | 19 | 48.7% |
+| Rust | 20 | 50.0% |
+| C++ | 20 | 50.0% |
 
 ## Progress tracker
 
-**35 / 150 solved (23.3%)**
+**36 / 150 solved (24.0%)**
 
-![Progress](https://progress-bar.xyz/35/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/36/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
 
 **Easy**  
 ![Easy](https://progress-bar.xyz/71/?scale=100&suffix=%25%20(20/28)&width=300&progress_color=22c55e)
 
 **Medium**  
-![Medium](https://progress-bar.xyz/15/?scale=100&suffix=%25%20(15/101)&width=300&progress_color=eab308)
+![Medium](https://progress-bar.xyz/16/?scale=100&suffix=%25%20(16/101)&width=300&progress_color=eab308)
 
 **Hard**  
 ![Hard](https://progress-bar.xyz/0/?scale=100&suffix=%25%20(0/21)&width=300&progress_color=ef4444)
@@ -33,7 +33,7 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 | Sliding Window | 1 | 6 | 16.7% |
 | Stack | 1 | 7 | 14.3% |
 | Binary Search | 3 | 7 | 42.9% |
-| Linked List | 4 | 11 | 36.4% |
+| Linked List | 5 | 11 | 45.5% |
 | Trees | 6 | 15 | 40.0% |
 | Tries | 1 | 3 | 33.3% |
 | Heap / Priority Queue | 0 | 7 | 0.0% |
@@ -116,7 +116,7 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>Linked List</strong> (4/11)</summary>
+<summary><strong>Linked List</strong> (5/11)</summary>
 
 - [ ] Reverse Linked List
 - [x] [Merge Two Sorted Lists](<Data Structures & Algorithms/merge-two-sorted-linked-lists>)
@@ -125,7 +125,7 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 - [ ] Copy List with Random Pointer
 - [x] [Add Two Numbers](<Data Structures & Algorithms/add-two-numbers>)
 - [x] [Linked List Cycle](<Data Structures & Algorithms/linked-list-cycle-detection>)
-- [ ] Find the Duplicate Number
+- [x] [Find the Duplicate Number](<Data Structures & Algorithms/find-duplicate-integer>)
 - [ ] LRU Cache
 - [ ] Merge K Sorted Lists
 - [ ] Reverse Nodes in K Group
