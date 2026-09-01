@@ -8,20 +8,20 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| Rust | 20 | 50.0% |
-| C++ | 20 | 50.0% |
+| Rust | 21 | 51.2% |
+| C++ | 20 | 48.8% |
 
 ## Progress tracker
 
-**36 / 150 solved (24.0%)**
+**37 / 150 solved (24.7%)**
 
-![Progress](https://progress-bar.xyz/36/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/37/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
 
 **Easy**  
 ![Easy](https://progress-bar.xyz/71/?scale=100&suffix=%25%20(20/28)&width=300&progress_color=22c55e)
 
 **Medium**  
-![Medium](https://progress-bar.xyz/16/?scale=100&suffix=%25%20(16/101)&width=300&progress_color=eab308)
+![Medium](https://progress-bar.xyz/17/?scale=100&suffix=%25%20(17/101)&width=300&progress_color=eab308)
 
 **Hard**  
 ![Hard](https://progress-bar.xyz/0/?scale=100&suffix=%25%20(0/21)&width=300&progress_color=ef4444)
@@ -32,7 +32,7 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 | Two Pointers | 3 | 5 | 60.0% |
 | Sliding Window | 1 | 6 | 16.7% |
 | Stack | 1 | 7 | 14.3% |
-| Binary Search | 3 | 7 | 42.9% |
+| Binary Search | 4 | 7 | 57.1% |
 | Linked List | 5 | 11 | 45.5% |
 | Trees | 6 | 15 | 40.0% |
 | Tries | 1 | 3 | 33.3% |
@@ -103,13 +103,13 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>Binary Search</strong> (3/7)</summary>
+<summary><strong>Binary Search</strong> (4/7)</summary>
 
 - [x] [Binary Search](<Data Structures & Algorithms/binary-search>)
 - [ ] Search a 2D Matrix
 - [ ] Koko Eating Bananas
 - [x] [Find Minimum in Rotated Sorted Array](<Data Structures & Algorithms/find-minimum-in-rotated-sorted-array>)
-- [ ] Search in Rotated Sorted Array
+- [x] [Search in Rotated Sorted Array](<Data Structures & Algorithms/find-target-in-rotated-sorted-array>)
 - [x] [Time Based Key-Value Store](<Data Structures & Algorithms/time-based-key-value-store>)
 - [ ] Median of Two Sorted Arrays
 
