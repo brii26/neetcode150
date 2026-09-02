@@ -8,27 +8,27 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| Rust | 22 | 52.4% |
-| C++ | 20 | 47.6% |
+| Rust | 23 | 53.5% |
+| C++ | 20 | 46.5% |
 
 ## Progress tracker
 
-**38 / 150 solved (25.3%)**
+**39 / 150 solved (26.0%)**
 
-![Progress](https://progress-bar.xyz/38/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/39/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
 
 **Easy**  
 ![Easy](https://progress-bar.xyz/71/?scale=100&suffix=%25%20(20/28)&width=300&progress_color=22c55e)
 
 **Medium**  
-![Medium](https://progress-bar.xyz/18/?scale=100&suffix=%25%20(18/101)&width=300&progress_color=eab308)
+![Medium](https://progress-bar.xyz/19/?scale=100&suffix=%25%20(19/101)&width=300&progress_color=eab308)
 
 **Hard**  
 ![Hard](https://progress-bar.xyz/0/?scale=100&suffix=%25%20(0/21)&width=300&progress_color=ef4444)
 
 | Pattern | Solved | Total | Percentage |
 |---|---|---|---|
-| Arrays & Hashing | 8 | 9 | 88.9% |
+| Arrays & Hashing | 9 | 9 | 100.0% |
 | Two Pointers | 3 | 5 | 60.0% |
 | Sliding Window | 1 | 6 | 16.7% |
 | Stack | 1 | 7 | 14.3% |
@@ -52,7 +52,7 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 ## Solutions by pattern
 
 <details>
-<summary><strong>Arrays & Hashing</strong> (8/9)</summary>
+<summary><strong>Arrays & Hashing</strong> (9/9)</summary>
 
 - [x] [Contains Duplicate](<Data Structures & Algorithms/duplicate-integer>)
 - [x] [Valid Anagram](<Data Structures & Algorithms/is-anagram>)
@@ -62,7 +62,7 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 - [x] [Encode and Decode Strings](<Data Structures & Algorithms/string-encode-and-decode>)
 - [x] [Product of Array Except Self](<Data Structures & Algorithms/products-of-array-discluding-self>)
 - [x] [Valid Sudoku](<Data Structures & Algorithms/valid-sudoku>)
-- [ ] Longest Consecutive Sequence
+- [x] [Longest Consecutive Sequence](<Data Structures & Algorithms/longest-consecutive-sequence>)
 
 </details>
 
