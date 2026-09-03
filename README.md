@@ -8,8 +8,8 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| Rust | 26 | 56.5% |
-| C++ | 20 | 43.5% |
+| Rust | 27 | 57.4% |
+| C++ | 20 | 42.6% |
 
 ## Progress tracker
 
@@ -306,6 +306,13 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 - [ ] Missing Number
 - [ ] Sum of Two Integers
 - [ ] Reverse Integer
+
+</details>
+
+<details>
+<summary><strong>Other / unmapped</strong> (not in the NeetCode 150 catalog)</summary>
+
+- [n-th-tribonacci-number](<Data Structures & Algorithms/n-th-tribonacci-number>)
 
 </details>
 
