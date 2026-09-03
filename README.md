@@ -40,8 +40,8 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 | Backtracking | 0 | 16 | 0.0% |
 | Graphs | 2 | 21 | 9.5% |
 | Advanced Graphs | 0 | 10 | 0.0% |
-| 1-D DP | 3 | 17 | 17.6% |
-| 2-D DP | 1 | 16 | 6.2% |
+| 1-D Dynamic Programming | 3 | 17 | 17.6% |
+| 2-D Dynamic Programming | 1 | 16 | 6.2% |
 | Greedy | 0 | 14 | 0.0% |
 | Intervals | 1 | 7 | 14.3% |
 | Math & Geometry | 1 | 13 | 7.7% |
@@ -297,7 +297,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>1-D DP</strong> (3/17)</summary>
+<summary><strong>1-D Dynamic Programming</strong> (3/17)</summary>
 
 - [x] [Climbing Stairs](<Data Structures & Algorithms/count-ways-to-climb>)
 - [x] [Min Cost Climbing Stairs](<Data Structures & Algorithms/min-cost-climbing-stairs>)
@@ -320,7 +320,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>2-D DP</strong> (1/16)</summary>
+<summary><strong>2-D Dynamic Programming</strong> (1/16)</summary>
 
 - [x] [Unique Paths](<Data Structures & Algorithms/count-paths>)
 - [ ] Longest Common Subsequence

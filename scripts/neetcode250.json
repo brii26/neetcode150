@@ -588,139 +588,139 @@
     "difficulty": "Medium"
   },
   {
-    "pattern": "1-D DP",
+    "pattern": "1-D Dynamic Programming",
     "name": "Climbing Stairs",
     "slug": "count-ways-to-climb",
     "difficulty": "Easy"
   },
   {
-    "pattern": "1-D DP",
+    "pattern": "1-D Dynamic Programming",
     "name": "Min Cost Climbing Stairs",
     "slug": "min-cost-climbing-stairs",
     "difficulty": "Easy"
   },
   {
-    "pattern": "1-D DP",
+    "pattern": "1-D Dynamic Programming",
     "name": "House Robber",
     "slug": "house-robber",
     "difficulty": "Medium"
   },
   {
-    "pattern": "1-D DP",
+    "pattern": "1-D Dynamic Programming",
     "name": "House Robber II",
     "slug": "house-robber-ii",
     "difficulty": "Medium"
   },
   {
-    "pattern": "1-D DP",
+    "pattern": "1-D Dynamic Programming",
     "name": "Longest Palindromic Substring",
     "slug": "longest-palindromic-substring",
     "difficulty": "Medium"
   },
   {
-    "pattern": "1-D DP",
+    "pattern": "1-D Dynamic Programming",
     "name": "Palindromic Substrings",
     "slug": "palindromic-substrings",
     "difficulty": "Medium"
   },
   {
-    "pattern": "1-D DP",
+    "pattern": "1-D Dynamic Programming",
     "name": "Decode Ways",
     "slug": "decode-ways",
     "difficulty": "Medium"
   },
   {
-    "pattern": "1-D DP",
+    "pattern": "1-D Dynamic Programming",
     "name": "Coin Change",
     "slug": "coin-change",
     "difficulty": "Medium"
   },
   {
-    "pattern": "1-D DP",
+    "pattern": "1-D Dynamic Programming",
     "name": "Maximum Product Subarray",
     "slug": "maximum-product-subarray",
     "difficulty": "Medium"
   },
   {
-    "pattern": "1-D DP",
+    "pattern": "1-D Dynamic Programming",
     "name": "Word Break",
     "slug": "word-break",
     "difficulty": "Medium"
   },
   {
-    "pattern": "1-D DP",
+    "pattern": "1-D Dynamic Programming",
     "name": "Longest Increasing Subsequence",
     "slug": "longest-increasing-subsequence",
     "difficulty": "Medium"
   },
   {
-    "pattern": "1-D DP",
+    "pattern": "1-D Dynamic Programming",
     "name": "Partition Equal Subset Sum",
     "slug": "partition-equal-subset-sum",
     "difficulty": "Medium"
   },
   {
-    "pattern": "2-D DP",
+    "pattern": "2-D Dynamic Programming",
     "name": "Unique Paths",
     "slug": "count-paths",
     "difficulty": "Medium"
   },
   {
-    "pattern": "2-D DP",
+    "pattern": "2-D Dynamic Programming",
     "name": "Longest Common Subsequence",
     "slug": "longest-common-subsequence",
     "difficulty": "Medium"
   },
   {
-    "pattern": "2-D DP",
+    "pattern": "2-D Dynamic Programming",
     "name": "Best Time to Buy and Sell Stock with Cooldown",
     "slug": "buy-and-sell-crypto-with-cooldown",
     "difficulty": "Medium"
   },
   {
-    "pattern": "2-D DP",
+    "pattern": "2-D Dynamic Programming",
     "name": "Coin Change II",
     "slug": "coin-change-ii",
     "difficulty": "Medium"
   },
   {
-    "pattern": "2-D DP",
+    "pattern": "2-D Dynamic Programming",
     "name": "Target Sum",
     "slug": "target-sum",
     "difficulty": "Medium"
   },
   {
-    "pattern": "2-D DP",
+    "pattern": "2-D Dynamic Programming",
     "name": "Interleaving String",
     "slug": "interleaving-strings",
     "difficulty": "Medium"
   },
   {
-    "pattern": "2-D DP",
+    "pattern": "2-D Dynamic Programming",
     "name": "Longest Increasing Path in a Matrix",
     "slug": "longest-increasing-path-in-matrix",
     "difficulty": "Hard"
   },
   {
-    "pattern": "2-D DP",
+    "pattern": "2-D Dynamic Programming",
     "name": "Distinct Subsequences",
     "slug": "counting-distinct-subsequences",
     "difficulty": "Hard"
   },
   {
-    "pattern": "2-D DP",
+    "pattern": "2-D Dynamic Programming",
     "name": "Edit Distance",
     "slug": "edit-distance",
     "difficulty": "Medium"
   },
   {
-    "pattern": "2-D DP",
+    "pattern": "2-D Dynamic Programming",
     "name": "Burst Balloons",
     "slug": "burst-balloons",
     "difficulty": "Hard"
   },
   {
-    "pattern": "2-D DP",
+    "pattern": "2-D Dynamic Programming",
     "name": "Regular Expression Matching",
     "slug": "regular-expression-matching",
     "difficulty": "Hard"
@@ -1350,61 +1350,61 @@
     "difficulty": "Hard"
   },
   {
-    "pattern": "1-D DP",
+    "pattern": "1-D Dynamic Programming",
     "name": "N-th Tribonacci Number",
     "slug": "n-th-tribonacci-number",
     "difficulty": "Easy"
   },
   {
-    "pattern": "1-D DP",
+    "pattern": "1-D Dynamic Programming",
     "name": "Combination Sum IV",
     "slug": "combination-sum-iv",
     "difficulty": "Medium"
   },
   {
-    "pattern": "1-D DP",
+    "pattern": "1-D Dynamic Programming",
     "name": "Perfect Squares",
     "slug": "perfect-squares",
     "difficulty": "Medium"
   },
   {
-    "pattern": "1-D DP",
+    "pattern": "1-D Dynamic Programming",
     "name": "Integer Break",
     "slug": "integer-break",
     "difficulty": "Medium"
   },
   {
-    "pattern": "1-D DP",
+    "pattern": "1-D Dynamic Programming",
     "name": "Stone Game III",
     "slug": "stone-game-iii",
     "difficulty": "Hard"
   },
   {
-    "pattern": "2-D DP",
+    "pattern": "2-D Dynamic Programming",
     "name": "Unique Paths II",
     "slug": "unique-paths-ii",
     "difficulty": "Medium"
   },
   {
-    "pattern": "2-D DP",
+    "pattern": "2-D Dynamic Programming",
     "name": "Minimum Path Sum",
     "slug": "minimum-path-sum",
     "difficulty": "Medium"
   },
   {
-    "pattern": "2-D DP",
+    "pattern": "2-D Dynamic Programming",
     "name": "Last Stone Weight II",
     "slug": "last-stone-weight-ii",
     "difficulty": "Medium"
   },
   {
-    "pattern": "2-D DP",
+    "pattern": "2-D Dynamic Programming",
     "name": "Stone Game",
     "slug": "stone-game",
     "difficulty": "Medium"
   },
   {
-    "pattern": "2-D DP",
+    "pattern": "2-D Dynamic Programming",
     "name": "Stone Game II",
     "slug": "stone-game-ii",
     "difficulty": "Medium"
