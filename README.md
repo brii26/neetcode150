@@ -8,20 +8,20 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| Rust | 24 | 54.5% |
-| C++ | 20 | 45.5% |
+| Rust | 25 | 55.6% |
+| C++ | 20 | 44.4% |
 
 ## Progress tracker
 
-**40 / 150 solved (26.7%)**
+**41 / 150 solved (27.3%)**
 
-![Progress](https://progress-bar.xyz/40/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/41/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
 
 **Easy**  
 ![Easy](https://progress-bar.xyz/75/?scale=100&suffix=%25%20(21/28)&width=300&progress_color=22c55e)
 
 **Medium**  
-![Medium](https://progress-bar.xyz/19/?scale=100&suffix=%25%20(19/101)&width=300&progress_color=eab308)
+![Medium](https://progress-bar.xyz/20/?scale=100&suffix=%25%20(20/101)&width=300&progress_color=eab308)
 
 **Hard**  
 ![Hard](https://progress-bar.xyz/0/?scale=100&suffix=%25%20(0/21)&width=300&progress_color=ef4444)
@@ -29,7 +29,7 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 | Pattern | Solved | Total | Percentage |
 |---|---|---|---|
 | Arrays & Hashing | 9 | 9 | 100.0% |
-| Two Pointers | 3 | 5 | 60.0% |
+| Two Pointers | 4 | 5 | 80.0% |
 | Sliding Window | 1 | 6 | 16.7% |
 | Stack | 1 | 7 | 14.3% |
 | Binary Search | 4 | 7 | 57.1% |
@@ -67,10 +67,10 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>Two Pointers</strong> (3/5)</summary>
+<summary><strong>Two Pointers</strong> (4/5)</summary>
 
 - [x] [Valid Palindrome](<Data Structures & Algorithms/is-palindrome>)
-- [ ] Two Sum II (Sorted Array)
+- [x] [Two Sum II (Sorted Array)](<Data Structures & Algorithms/two-integer-sum-ii>)
 - [x] [3Sum](<Data Structures & Algorithms/three-integer-sum>)
 - [x] [Container With Most Water](<Data Structures & Algorithms/max-water-container>)
 - [ ] Trapping Rain Water
