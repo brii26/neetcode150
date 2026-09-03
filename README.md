@@ -8,17 +8,17 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| Rust | 23 | 53.5% |
-| C++ | 20 | 46.5% |
+| Rust | 24 | 54.5% |
+| C++ | 20 | 45.5% |
 
 ## Progress tracker
 
-**39 / 150 solved (26.0%)**
+**40 / 150 solved (26.7%)**
 
-![Progress](https://progress-bar.xyz/39/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/40/?scale=150&suffix=%20/%20150&width=300&progress_color=ffffff)
 
 **Easy**  
-![Easy](https://progress-bar.xyz/71/?scale=100&suffix=%25%20(20/28)&width=300&progress_color=22c55e)
+![Easy](https://progress-bar.xyz/75/?scale=100&suffix=%25%20(21/28)&width=300&progress_color=22c55e)
 
 **Medium**  
 ![Medium](https://progress-bar.xyz/19/?scale=100&suffix=%25%20(19/101)&width=300&progress_color=eab308)
@@ -40,7 +40,7 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 | Backtracking | 0 | 9 | 0.0% |
 | Graphs | 2 | 13 | 15.4% |
 | Advanced Graphs | 0 | 6 | 0.0% |
-| 1-D DP | 1 | 12 | 8.3% |
+| 1-D DP | 2 | 12 | 16.7% |
 | 2-D DP | 1 | 11 | 9.1% |
 | Greedy | 0 | 8 | 0.0% |
 | Intervals | 1 | 6 | 16.7% |
@@ -222,10 +222,10 @@ This is my NeetCode 150 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>1-D DP</strong> (1/12)</summary>
+<summary><strong>1-D DP</strong> (2/12)</summary>
 
 - [x] [Climbing Stairs](<Data Structures & Algorithms/count-ways-to-climb>)
-- [ ] Min Cost Climbing Stairs
+- [x] [Min Cost Climbing Stairs](<Data Structures & Algorithms/min-cost-climbing-stairs>)
 - [ ] House Robber
 - [ ] House Robber II
 - [ ] Longest Palindromic Substring
