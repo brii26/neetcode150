@@ -5,7 +5,7 @@ on:
     branches: [main]
     paths:
       - "Data Structures & Algorithms/**"
-      - "scripts/neetcode150.json"
+      - "scripts/neetcode250.json"
       - "scripts/generate_progress.py"
   workflow_dispatch: {}
 

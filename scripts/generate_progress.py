@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Regenerate README.md's progress section from the NeetCode 150 catalog
+"""Regenerate README.md's progress section from the NeetCode 250 catalog
 and whichever problem folders currently exist under "Data Structures & Algorithms".
 
 A problem counts as solved if its folder contains at least one submission-*.<ext> file.
@@ -10,7 +10,7 @@ import re
 from collections import OrderedDict, defaultdict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CATALOG_PATH = os.path.join(ROOT, "scripts", "neetcode150.json")
+CATALOG_PATH = os.path.join(ROOT, "scripts", "neetcode250.json")
 SUBMISSIONS_DIR = os.path.join(ROOT, "Data Structures & Algorithms")
 README_PATH = os.path.join(ROOT, "README.md")
 
@@ -172,7 +172,7 @@ def build_section():
     unmapped = sorted(solved - catalog_slugs)
     if unmapped:
         lines.append("<details>")
-        lines.append("<summary><strong>Other / unmapped</strong> (not in the NeetCode 150 catalog)</summary>")
+        lines.append("<summary><strong>Other / unmapped</strong> (not in the NeetCode 250 catalog)</summary>")
         lines.append("")
         for slug in unmapped:
             lines.append(f'- [{slug}](<Data Structures & Algorithms/{slug}>)')
