@@ -8,17 +8,17 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| Rust | 34 | 63.0% |
-| C++ | 20 | 37.0% |
+| Rust | 34 | 61.8% |
+| C++ | 21 | 38.2% |
 
 ## Progress tracker
 
-**49 / 250 solved (19.6%)**
+**50 / 250 solved (20.0%)**
 
-![Progress](https://progress-bar.xyz/49/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/50/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
 
 **Easy**  
-![Easy](https://progress-bar.xyz/38/?scale=100&suffix=%25%20(23/60)&width=300&progress_color=22c55e)
+![Easy](https://progress-bar.xyz/40/?scale=100&suffix=%25%20(24/60)&width=300&progress_color=22c55e)
 
 **Medium**  
 ![Medium](https://progress-bar.xyz/17/?scale=100&suffix=%25%20(26/155)&width=300&progress_color=eab308)
@@ -38,7 +38,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 | Tries | 1 | 4 | 25.0% |
 | Heap / Priority Queue | 0 | 12 | 0.0% |
 | Backtracking | 6 | 16 | 37.5% |
-| Graphs | 2 | 21 | 9.5% |
+| Graphs | 3 | 21 | 14.3% |
 | Advanced Graphs | 0 | 10 | 0.0% |
 | 1-D Dynamic Programming | 3 | 17 | 17.6% |
 | 2-D Dynamic Programming | 1 | 16 | 6.2% |
@@ -254,7 +254,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>Graphs</strong> (2/21)</summary>
+<summary><strong>Graphs</strong> (3/21)</summary>
 
 - [x] [Number of Islands](<Data Structures & Algorithms/count-number-of-islands>)
 - [ ] Clone Graph
@@ -269,7 +269,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 - [ ] Number of Connected Components in an Undirected Graph
 - [ ] Graph Valid Tree
 - [ ] Word Ladder
-- [ ] Island Perimeter
+- [x] [Island Perimeter](<Data Structures & Algorithms/island-perimeter>)
 - [ ] Verifying An Alien Dictionary
 - [ ] Find the Town Judge
 - [ ] Open The Lock
