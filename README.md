@@ -8,17 +8,17 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| Rust | 28 | 58.3% |
-| C++ | 20 | 41.7% |
+| Rust | 29 | 59.2% |
+| C++ | 20 | 40.8% |
 
 ## Progress tracker
 
-**44 / 250 solved (17.6%)**
+**45 / 250 solved (18.0%)**
 
-![Progress](https://progress-bar.xyz/44/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/45/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
 
 **Easy**  
-![Easy](https://progress-bar.xyz/37/?scale=100&suffix=%25%20(22/60)&width=300&progress_color=22c55e)
+![Easy](https://progress-bar.xyz/38/?scale=100&suffix=%25%20(23/60)&width=300&progress_color=22c55e)
 
 **Medium**  
 ![Medium](https://progress-bar.xyz/14/?scale=100&suffix=%25%20(22/155)&width=300&progress_color=eab308)
@@ -37,7 +37,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 | Trees | 6 | 23 | 26.1% |
 | Tries | 1 | 4 | 25.0% |
 | Heap / Priority Queue | 0 | 12 | 0.0% |
-| Backtracking | 1 | 16 | 6.2% |
+| Backtracking | 2 | 16 | 12.5% |
 | Graphs | 2 | 21 | 9.5% |
 | Advanced Graphs | 0 | 10 | 0.0% |
 | 1-D Dynamic Programming | 3 | 17 | 17.6% |
@@ -232,7 +232,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>Backtracking</strong> (1/16)</summary>
+<summary><strong>Backtracking</strong> (2/16)</summary>
 
 - [x] [Subsets](<Data Structures & Algorithms/subsets>)
 - [ ] Combination Sum
@@ -243,7 +243,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 - [ ] Palindrome Partitioning
 - [ ] Letter Combinations of a Phone Number
 - [ ] N-Queens
-- [ ] Sum of All Subsets XOR Total
+- [x] [Sum of All Subsets XOR Total](<Data Structures & Algorithms/sum-of-all-subset-xor-totals>)
 - [ ] Combinations
 - [ ] Permutations II
 - [ ] Matchsticks to Square
