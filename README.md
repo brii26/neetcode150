@@ -8,20 +8,20 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| Rust | 30 | 60.0% |
-| C++ | 20 | 40.0% |
+| Rust | 31 | 60.8% |
+| C++ | 20 | 39.2% |
 
 ## Progress tracker
 
-**46 / 250 solved (18.4%)**
+**47 / 250 solved (18.8%)**
 
-![Progress](https://progress-bar.xyz/46/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/47/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
 
 **Easy**  
 ![Easy](https://progress-bar.xyz/38/?scale=100&suffix=%25%20(23/60)&width=300&progress_color=22c55e)
 
 **Medium**  
-![Medium](https://progress-bar.xyz/15/?scale=100&suffix=%25%20(23/155)&width=300&progress_color=eab308)
+![Medium](https://progress-bar.xyz/15/?scale=100&suffix=%25%20(24/155)&width=300&progress_color=eab308)
 
 **Hard**  
 ![Hard](https://progress-bar.xyz/0/?scale=100&suffix=%25%20(0/35)&width=300&progress_color=ef4444)
@@ -37,7 +37,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 | Trees | 6 | 23 | 26.1% |
 | Tries | 1 | 4 | 25.0% |
 | Heap / Priority Queue | 0 | 12 | 0.0% |
-| Backtracking | 3 | 16 | 18.8% |
+| Backtracking | 4 | 16 | 25.0% |
 | Graphs | 2 | 21 | 9.5% |
 | Advanced Graphs | 0 | 10 | 0.0% |
 | 1-D Dynamic Programming | 3 | 17 | 17.6% |
@@ -232,7 +232,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>Backtracking</strong> (3/16)</summary>
+<summary><strong>Backtracking</strong> (4/16)</summary>
 
 - [x] [Subsets](<Data Structures & Algorithms/subsets>)
 - [x] [Combination Sum](<Data Structures & Algorithms/combination-target-sum>)
@@ -244,7 +244,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 - [ ] Letter Combinations of a Phone Number
 - [ ] N-Queens
 - [x] [Sum of All Subsets XOR Total](<Data Structures & Algorithms/sum-of-all-subset-xor-totals>)
-- [ ] Combinations
+- [x] [Combinations](<Data Structures & Algorithms/combinations>)
 - [ ] Permutations II
 - [ ] Matchsticks to Square
 - [ ] Partition to K Equal Sum Subsets
